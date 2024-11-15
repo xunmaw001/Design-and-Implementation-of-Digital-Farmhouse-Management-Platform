@@ -1,0 +1,2 @@
+# Design-and-Implementation-of-Digital-Farmhouse-Management-Platform
+基于Spring Boot和Vue的数字化农家乐管理平台旨在提升农家乐运营效率与用户体验。后端采用Spring Boot构建高效的RESTful API，确保数据的安全与稳定处理；前端使用Vue框架，提供直观友好的用户界面。平台功能包括在线预订、客户管理、活动发布和财务统计，帮助农家乐管理者实现数字化运营，促进农业旅游的发展，使用户享受便捷的服务与丰富的乡村体验。
